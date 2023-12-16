@@ -1,4 +1,4 @@
-### Привет меня зовут Никита👋 FULLSTACKDEVELOPER
+# Что умею:
 
 #### FRONTEND: 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
